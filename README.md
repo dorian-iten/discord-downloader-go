@@ -158,7 +158,7 @@ You can either create a `settings.json` following the examples & variables liste
 4. Put your Discord User ID as in the `"admins"` list of the settings. [_(SEE BELOW)_](#-list-of-settings)
 5. Put a Discord Channel ID for a private channel you have access to into the `"adminChannels"`. [_(SEE BELOW)_](#-list-of-settings)
 6. Put your desired Discord Channel IDs into th6e `"channels"` section. [_(SEE BELOW)_](#-list-of-settings)
-   - I know it can be confusing if you don't have experience with programming or JSON in general, but this was the ideal setup for extensive configuration like this. Just be careful with comma & quote placement and you should be fine. [See examples below for help.](#-settings-examples)
+   - I know it can be confusing if you don't have experience with programming or JSON in general, but this was the ideal setup for extensive configuration like this. Just be careful with comma & quote placement and you should be fine. [See examples below for help.](#example-all-with-default-values)
 
 ### Bot Login Credentials
 
